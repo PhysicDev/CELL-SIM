@@ -1,3 +1,6 @@
+// this code was made by physic gamer //
+// ce code à été fait par physic gamer// 
+
 import java.util.Vector;
 
 Vector<Cell> cells = new Vector<Cell>();
