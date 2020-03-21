@@ -1,3 +1,6 @@
+// this code was made by physic gamer //
+// ce code à été fait par physic gamer// 
+
 public class Slider{
   
   float x,y,l,min,max,s_w,h_g,b_g;
