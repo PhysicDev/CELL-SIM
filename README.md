@@ -16,3 +16,6 @@ si vous voulez reutiliser ou modifier ce code (ou recuperer les classes graphics
 vous pouvez le faire à condition d'indiquer que j'en suis le créateur(physic gamer)
 
 si vous voulez suivre le developement du projet vous pouvez aller voir la vidéo suivante : "pas encore sortie déso"
+
+
+                                                                                            PHYSIC GAMER ©
